@@ -26,6 +26,11 @@
             ],
             "source": "clean.R",
             "target": "data.csv"
+        },
+        {
+            "ports": [],
+            "source": "normalize.R",
+            "target": "CreateSubset.R"
         }
     ],
     "nodes": [
@@ -40,8 +45,20 @@
             "desc": "",
             "name": "clean.R",
             "task_status": "proposed"
+        },
+        {
+            "assigned_to": "eashani",
+            "desc": "",
+            "name": "normalize.R",
+            "task_status": "proposed"
+        },
+        {
+            "assigned_to": "jganatra07",
+            "desc": "",
+            "name": "CreateSubset.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-09-27 15:34:40",
+    "updated_at": "2018-09-27 15:40:34",
     "url": "https://github.com/fall2018-saltz/ag_0"
 }
