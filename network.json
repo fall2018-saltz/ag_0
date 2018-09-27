@@ -1,7 +1,8 @@
 {
     "collaborators": [
         "amgadge",
-        "tshetty"
+        "tshetty",
+        "eashani"
     ],
     "created_at": "2018-09-27 15:29:27",
     "edges": [
@@ -31,12 +32,15 @@
             "name": "raw_data.csv"
         },
         {
-            "name": "clean.R"
+            "name": "data.csv"
         },
         {
-            "name": "data.csv"
+            "assigned_to": "tshetty",
+            "desc": "",
+            "name": "clean.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-09-27 15:32:40",
+    "updated_at": "2018-09-27 15:33:55",
     "url": "https://github.com/fall2018-saltz/ag_0"
 }
